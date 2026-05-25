@@ -13,12 +13,10 @@ I'm Nick, and I'm interested in solving problems with my skills in machine learn
 
 ## Featured Projects:
 [**TARGE**](https://github.com/nbusich/targe-prismatic-vlm):  Reducing visual token count in VLMs using attention-based selection. Trained two CLIP, Phi-2 based VLMs with a novel token pruning modality connector. 
-
+![Selector Heatmap](https://github.com/nbusich/nbusich/blob/main/images/Selector_heatmap.png)
 
 **Line Segmentation**:  Instance segmentation of power lines with blender-based synthetic data generation pipeline, teacher-student model distillation, and quantization for edge deployment. Developed at LineVision.
 
 
-[**Cybersecurity Anomaly Detection**](https://github.com/nbusich/tenex_project):  Full-stack web app that detect ZScaler logs with cyberattacks, inluding custom model benchmarks and data drift detection
-
-!()[]
-
+[**Cybersecurity Anomaly Detection**](https://github.com/nbusich/tenex_project):  Full-stack web app that detect ZScaler logs with cyberattacks, inluding custom model benchmarks and data drift detection.
+![log-upload](https://github.com/nbusich/nbusich/blob/main/images/cybersecurity-log-upload.png)
